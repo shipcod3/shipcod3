@@ -11,5 +11,5 @@
     <img src="https://img.shields.io/twitter/follow/codingo_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
-<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=shipcod3&show_icons=true&theme=tokyonight" /></h4>
+<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=shipcod3&show_icons=true&theme=hacker" /></h4>
 
