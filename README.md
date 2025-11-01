@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a cli-based framework for fun canbus hacking
+- 🔭 I’m currently working BLE fuzzing
 - 🌱 I’m currently learning isotp
 - 📫 How to reach me: shipcodez at gmail dot com
 - 😄 Pronouns: he/him
